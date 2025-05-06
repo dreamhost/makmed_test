@@ -11,9 +11,6 @@ export default function Home() {
    <div data-editor-tag="OzkmGY064o"  className="flex min-h-screen flex-col">
      <Header data-editor-tag="9KcQxq1Mp7"  />
      <main data-editor-tag="F08x6hSva9"  className="flex-1">
-       <Hero data-editor-tag="FceBWqKqHB"  />
-       <Features data-editor-tag="bomYjRhuzW"  />
-       <Testimonials data-editor-tag="mwDoxxfkiA"  />
        <Pricing data-editor-tag="lxcepMAyom"  />
        <Contact data-editor-tag="TSbRNKFCUS"  />
       </main>
