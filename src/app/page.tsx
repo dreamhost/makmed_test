@@ -8,12 +8,10 @@ import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
   return (<div className="flex min-h-screen flex-col">
-    asssss22
-<main data-editor-tag="TQb7JFnupQ"  className="flex-1">
-  <Pricing data-editor-tag="ltCoO4gHUy"  />
-  <Contact data-editor-tag="BxxCPfjJc6"  />
-      </main>
-<Footer data-editor-tag="9pjvskPuxp"  />
+    a24143<main data-editor-tag="8FDUqIR9tR"  className="flex-1">
+ <Pricing data-editor-tag="EMeFLUubrY"  />
+ <Contact data-editor-tag="azynJjo5K1"  />
+      </main><Footer data-editor-tag="8Z0qstGGIZ"  />
     </div>
   );
 }
