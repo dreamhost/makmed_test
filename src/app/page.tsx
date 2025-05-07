@@ -1,22 +1,23 @@
-Index: file
-===================================================================
---- file
-+++ file
-@@ -1,13 +1,12 @@
- import { Contact } from "@src/components/sections/Contact";
-  
- export default function Home() {
-    return (
--   <div data-editor-tag="OzkmGY064o"  className="flex min-h-screen flex-col">
--     <Header data-editor-tag="9KcQxq1Mp7"  />
--     <main data-editor-tag="k8Kdz1TeuC"  className="flex-1">
--      <Pricing data-editor-tag="EgCCMZjSO8" />
--      <Contact data-editor-tag="v4xw6sZSUL" />
-+  <div data-editor-tag="nB0HG4MWOh"  className="flex min-h-screen flex-col">
-+    <Header data-editor-tag="d1iAw4QSuN"  />
-+    <main data-editor-tag="p0Cf3c5FNO"  className="flex-1">
-+     <Pricing data-editor-tag="HdXSOvVbAu"  />
+import { Header } from "@src/components/layout/Header";
+import { Footer } from "@src/components/layout/Footer";
+import { Hero } from "@src/components/sections/Hero";
+import { Features } from "@src/components/sections/Features";
+import { Testimonials } from "@src/components/sections/Testimonials";
+import { Pricing } from "@src/components/sections/Pricing";
+import { Contact } from "@src/components/sections/Contact";
+
+export default function Home() {
+  return (
+   <div data-editor-tag="OzkmGY064o"  className="flex min-h-screen flex-col">
+     <Header data-editor-tag="9KcQxq1Mp7"  />
+     <main data-editor-tag="F08x6hSva9"  className="flex-1">
+       <Hero data-editor-tag="FceBWqKqHB"  />
+       <Features data-editor-tag="bomYjRhuzW"  />
+       <Testimonials data-editor-tag="mwDoxxfkiA"  />
+       <Pricing data-editor-tag="lxcepMAyom"  />
+       <Contact data-editor-tag="TSbRNKFCUS"  />
       </main>
-      </div>
-    );
-  }
+     <Footer data-editor-tag="KG994gFKe1"  />
+    </div>
+  );
+}
