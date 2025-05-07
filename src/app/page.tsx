@@ -8,16 +8,14 @@ import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
   return (
-   <div data-editor-tag="OzkmGY064o"  className="flex min-h-screen flex-col">
-     <Header data-editor-tag="9KcQxq1Mp7"  />
-     <main data-editor-tag="F08x6hSva9"  className="flex-1">
-       <Hero data-editor-tag="FceBWqKqHB"  />
-       <Features data-editor-tag="bomYjRhuzW"  />
-       <Testimonials data-editor-tag="mwDoxxfkiA"  />
-       <Pricing data-editor-tag="lxcepMAyom"  />
-       <Contact data-editor-tag="TSbRNKFCUS"  />
+  <div data-editor-tag="8NHaIUzag8"  className="flex min-h-screen flex-col">
+    <Header data-editor-tag="mhikU3magS"  />
+    <main data-editor-tag="30VrjcIJdy"  className="flex-1">
+      <Testimonials data-editor-tag="H8b0kYWIXk"  />
+      <Pricing data-editor-tag="mHBEBlo252"  />
+      <Contact data-editor-tag="6m0sOZE5S7"  />
       </main>
-     <Footer data-editor-tag="KG994gFKe1"  />
+    <Footer data-editor-tag="3ovszlTQBu"  />
     </div>
   );
 }
