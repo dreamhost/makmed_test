@@ -7,8 +7,8 @@ import { Pricing } from "@src/components/sections/Pricing";
 import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
-  return (<div className="flex min-h-screen flex-col">asdasd
-  <main data-editor-tag="Zjep4AQmj4"  className="flex-1"><Pricing data-editor-tag="o7RpQph9tR"  /><Contact data-editor-tag="bbFbYmCm5n"  />
+  return (<div className="flex min-h-screen flex-col">asdasd3223
+ <main data-editor-tag="Khe2syMewW"  className="flex-1"><Pricing /><Contact />
       </main><Footer />
     </div>
   );
