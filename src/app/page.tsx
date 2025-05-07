@@ -8,12 +8,13 @@ import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
   return (
-  <div data-editor-tag="f0HBGvBRga"  className="flex min-h-screen flex-col">
-    <main data-editor-tag="UdFMdIMq0Z"  className="flex-1">
-      <Pricing data-editor-tag="6CDL9mTRKd"  />
-      <Contact data-editor-tag="D2fQm8dJA2"  />
+ <div data-editor-tag="VQZHGbH1uQ"  className="flex min-h-screen flex-col">
+    asdadasd
+   <main data-editor-tag="LjiiCmRcEQ"  className="flex-1">
+     <Pricing data-editor-tag="1ZbC0x7enx"  />
+     <Contact data-editor-tag="Ch7uzoryO7"  />
       </main>
-    <Footer data-editor-tag="CKMDAtiGiN"  />
+   <Footer data-editor-tag="aoFie6uqy4"  />
     </div>
   );
 }
