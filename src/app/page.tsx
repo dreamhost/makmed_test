@@ -7,14 +7,13 @@ import { Pricing } from "@src/components/sections/Pricing";
 import { Contact } from "@src/components/sections/Contact";
 
 export default function Home() {
-  return (
-<div data-editor-tag="EqsrM5UV9p"  className="flex min-h-screen flex-col">
-    as
-  <main data-editor-tag="fkWVJfWHAj"  className="flex-1">
-    <Pricing data-editor-tag="9csrJ2QSeq"  />
-    <Contact data-editor-tag="mEegT78XgA"  />
+  return (<div data-editor-tag="EGG2PZnjeK"  className="flex min-h-screen flex-col">
+    asss
+ <main data-editor-tag="hyqzK4AWPY"  className="flex-1">
+   <Pricing data-editor-tag="84h8UfLozY"  />
+   <Contact data-editor-tag="rDljf9ldai"  />
       </main>
-  <Footer data-editor-tag="udEjzQBFId"  />
+ <Footer data-editor-tag="WZiVEOHUcr"  />
     </div>
   );
 }
